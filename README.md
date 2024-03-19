@@ -7,4 +7,4 @@ HEDTWO is a shell software to compute HLA evolutionnary distances for common HLA
 
 
 ### usage
-![res](https://github.com/cdesterke/hedtwo/blob/main/usage.png)
+![res](https://github.com/cdesterke/hedtwo/blob/main/test.png)
