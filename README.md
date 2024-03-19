@@ -1,7 +1,7 @@
 # hedtwo
 HEDTWO is a shell software to compute HLA evolutionary distances for common HLA class II loci (1).
 
-Based on Grantham distances HLA evolutionary distance (2) was computed for more than 5 millions of HLA combination through common HLA-II loci: DPA1, DPB1, DQA1, DQB1, DRB1, DRB345.
+Based on Grantham distances (2) HLA evolutionary distance was computed for more than 5 millions of HLA combination through common HLA-II loci: DPA1, DPB1, DQA1, DQB1, DRB1, DRB345.
 
 ### help option
 ![res](https://github.com/cdesterke/hedtwo/blob/main/help.png)
